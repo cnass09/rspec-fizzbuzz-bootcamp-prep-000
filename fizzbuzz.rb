@@ -1,4 +1,4 @@
-define fizzbuzz(int)
+define fizzbuzz(num)
   if int % 3 == 0
     "Fizz"
   end
