@@ -1,7 +1,7 @@
-define fizzbuzz(num)
-  if num % 3 == 0
+define fizzbuzz(integer)
+  if integer % 3 == 0
     "Fizz"
   end
-  if num % 5 == 0
+  if integer % 5 == 0
     "Buzz"
 end
